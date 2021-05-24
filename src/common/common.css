@@ -1,0 +1,24 @@
+page {
+    height: 100%;
+    font-size: 28upx;
+    line-height: 1.8;
+    background: #fff;
+}
+image {
+    width: 100%;
+}
+.main-bg-color {
+    background: #FD6801;
+}
+/* 主点击背景颜色（淡橙色） */
+.main-bg-hover-color {
+    background: rgb(253,104,1,0.85);
+}
+/* 主字体颜色（橙色） */
+.main-text-color {
+    background: #FD6801;
+}
+/* 主边框颜色（橙色） */
+.main-border-color {
+    background: #FD6801;
+}
